@@ -13,7 +13,7 @@ Welcome to 241209  .NET training! Here you'll find useful information for this t
 - Trainers: Ulada Haranina(ulada.haranina@revature.com), Jonathan Jonathan De La Cruz (jonathan.delacruz@revature.com)
 
 ## <a name="links"></a>Useful Links
-- <a href="" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
+- <a href="https://github.com/Training-241209/trainers-code" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
 - <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY4NTI1NmMtNDkwOC00M2RlLWI3MDUtOGNlZmQ4YjQ4MDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%226b63e28a-a8f9-47b5-aa40-97e231215164%22%2c%22Oid%22%3a%220d90b2c1-63b9-453a-8565-46b4165d5f86%22%7d" target="_blank" rel="noopener noreferrer">Teams Meeting Link</a>: We meet here every workday 9a-5p ET
 - <a href="https://app.revature.com" target="_blank" rel="noopener noreferrer">Revature Pro("RevPro")</a>: Find Recordings, Curriculum, Quizzes and other assessments here
 - <a href="https://help.revature.com/s/" target="_blank" rel="noopener noreferrer">HR Portal</a>: Submit HR ticket via this portal
@@ -22,7 +22,7 @@ Welcome to 241209  .NET training! Here you'll find useful information for this t
 - <a href="mailto:it@revature.com" target="_blank" rel="noopener noreferrer">Email IT</a> it@revature.com: For any access issues *feel free to cc me*
 
 ## <a name="projects"></a>Project Specs
-- [P1]()
+- [P1](https://github.com/Training-241209/trainers-code/blob/main/P1.md)
 - [P2]()
 - [P3]()
 ## <a name="installs"></a>Software Install Links
